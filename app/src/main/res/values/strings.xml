@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">काहानि</string>
+    <string name="title_activity_audio_player_scroll">AudioPlayerScrollActivity</string>
+    <string name="large_text">
+    </string>
+    <string name="action_settings">Settings</string>
+
+</resources>
