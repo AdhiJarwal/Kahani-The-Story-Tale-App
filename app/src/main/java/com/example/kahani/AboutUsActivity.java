@@ -18,6 +18,7 @@ public class AboutUsActivity extends AppCompatActivity {
         binding = ActivityAboutUsBinding.inflate(getLayoutInflater());
         setContentView(binding.getRoot());
 
+        //this is to hide the action bar
         getSupportActionBar().hide();
 
         binding.linkdinAdhiraj.setOnClickListener(new View.OnClickListener() {
